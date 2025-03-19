@@ -22,7 +22,7 @@ This is a Django web application that allows users to input their feelings and r
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Ayat-According-To-Feeling.git
+   git clone https://github.com/MuhammadUmarAbbas2011/Ayat-According-To-Feeling.git
    cd Ayat-According-To-Feeling
    ```
 
